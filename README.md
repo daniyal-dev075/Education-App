@@ -48,12 +48,11 @@ It provides features like **quizzes, task management, group chats, profile manag
 
 | | | |
 |---|---|---|
-| ![Screenshot 1](screenshots/1.png) | ![Screenshot 2](screenshots/2.png) | ![Screenshot 3](screenshots/3.png) |
-| ![Screenshot 4](screenshots/4.png) | ![Screenshot 5](screenshots/5.png) | ![Screenshot 6](screenshots/6.png) |
-| ![Screenshot 7](screenshots/7.png) | ![Screenshot 8](screenshots/8.png) | ![Screenshot 9](screenshots/9.png) |
-| ![Screenshot 10](screenshots/10.png) | ![Screenshot 11](screenshots/11.png) | ![Screenshot 12](screenshots/12.png) |
-
-*(Add your screenshots inside a `screenshots` folder and replace the paths accordingly.)*  
+| ![Splash View](screenshots/splash_view.jpg) | ![Signup View](screenshots/signup_view.jpg) | ![Login View](screenshots/login_view.jpg) |
+| ![Home View 1](screenshots/home_view1.jpg) | ![Home View 2](screenshots/home_view2.jpg) | ![Home View 3](screenshots/home_view3.jpg) |
+| ![Quiz Home View](screenshots/quiz_home_view.jpg) | ![Quiz View](screenshots/quiz_view.jpg) | ![Score View](screenshots/score_view.jpg) |
+| ![Chat View](screenshots/chat_view.jpg) | ![Task View](screenshots/task_view.jpg) | ![Profile View](screenshots/profile_view.jpg) |
+  
 
 ---
 
