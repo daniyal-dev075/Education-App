@@ -51,7 +51,7 @@ It provides features like **quizzes, task management, group chats, profile manag
 | ![Splash View](screenshots/splash_view.jpg) | ![Signup View](screenshots/signup_view.jpg) | ![Login View](screenshots/login_view.jpg) |
 | ![Home View 1](screenshots/home_view1.jpg) | ![Home View 2](screenshots/home_view2.jpg) | ![Home View 3](screenshots/home_view3.jpg) |
 | ![Quiz Home View](screenshots/quiz_home_view.jpg) | ![Quiz View](screenshots/quiz_view.jpg) | ![Score View](screenshots/score_view.jpg) |
-| ![Chat View](screenshots/chat_view.jpg) | ![Task View](screenshots/task_view.jpg) | ![Profile View](screenshots/profile_view.jpg) |
+| ![Chat View](screenshots/chat_view.jpg) | ![Task View](screenshots/task_manager.jpg) | ![Profile View](screenshots/profile_view.jpg) |
   
 
 ---
